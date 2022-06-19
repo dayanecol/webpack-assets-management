@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: #123456;
+    width: fit-content;
+    
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ededed ;
+    width: fit-content;
+
+}
+
+img{
+    object-fit: cover;
+}
+
+ul{
+    font-size: medium;
+    width: 500px;
+}
